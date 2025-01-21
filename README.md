@@ -2,6 +2,22 @@
 
 A Python package for generating binaural beats and other brainwave entrainment audio.
 
+## What are Binaural Beats?
+
+Binaural beats are an auditory illusion perceived when two slightly different frequencies are presented separately to each ear. The brain processes these two frequencies and perceives a third frequency, which is the mathematical difference between the two. This perceived beat frequency can influence brainwave activity and is often used for meditation, relaxation, and cognitive enhancement.
+
+For example, if a 200 Hz tone is played in one ear and a 210 Hz tone is played in the other ear, the brain perceives a binaural beat of 10 Hz. This 10 Hz frequency falls within the alpha brainwave range, which is associated with relaxation and calmness.
+
+### Brainwave Frequencies and Their Effects
+
+| Brainwave Type | Frequency Range | Associated Effects |
+|----------------|-----------------|--------------------|
+| Delta          | 0.5 - 4 Hz      | Deep sleep, healing, unconscious mind |
+| Theta          | 4 - 8 Hz        | Meditation, creativity, deep relaxation |
+| Alpha          | 8 - 14 Hz       | Relaxation, visualization, calmness |
+| Beta           | 14 - 30 Hz      | Alertness, concentration, cognition |
+| Gamma          | 30 - 100 Hz     | Higher mental activity, problem-solving |
+
 ## Features
 
 - Generate binaural beats with customizable frequencies
