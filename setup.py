@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="binaural",
-    version="0.1.1",
+    version="0.1.2",
     author="ishan Oshada",
     author_email="ishan.kodithuwakku.offical@gmail.com",
     description="A Python package for generating binaural beats and brainwave entrainment",
